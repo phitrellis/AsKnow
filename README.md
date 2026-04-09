@@ -1,6 +1,6 @@
 # 说明
 **使用前请先添加客服，说明使用目的等进行权限申请（企业会员自动开通API权限）**
-- 平台网址：https://chat.phitrellis.com
+- 平台网址：https://yige.space
 
 # PhiAPI
 提供新闻事件抽取、摘要、翻译、文档信息标准化抽取等多种接口及普通聊天对话接口，支持的模型包括：GPT系列、Claude系列、GEMINI系列、DeepSeek等
